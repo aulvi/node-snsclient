@@ -1,22 +1,27 @@
 {
-  "name": "aws-snsclient2",
+  "name": "hapi-snsclient",
   "description": "A client for parsing Amazon AWS SNS requests.",
   "keywords": ["amazon", "aws", "sns", "client"],
-  "version": "0.2.1",
-  "repository": "git://github.com/rwky/node-snsclient.git",
+  "version": "0.2.2",
+  "repository": "git://github.com/aulvi/node-snsclient.git",
   "author": {
-    "name": "Rowan Wookey",
-    "email": "admi@rwky.net",
-    "url": "http://www.rwky.net"
+    "name": "Adam Ulvi",
+    "email": "adam@pokemedia.com",
+    "url": "http://pokemedia.com"
   },
-  "contributors": [ {
+  "contributors": [{
     "name": "Matt Robenolt",
     "email": "matt@ydekproductions.com",
     "url": "http://mattrobenolt.com"
+  },
+  {
+    "name": "Rowan Wookey",
+    "email": "admi@rwky.net",
+    "url": "http://www.rwky.net"
   }],
   "main": "./index",
   "bugs": {
-    "url": "https://github.com/rwky/node-snsclient/issues"
+    "url": "https://github.com/aulvi/node-snsclient/issues"
   },
   "directories": {
     "lib": "lib",
